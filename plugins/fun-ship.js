@@ -1,3 +1,5 @@
+const { bot, forwardOrBroadCast, parsedJid } = require('../lib')
+
 bot(
   {
   pattern: "ship",
