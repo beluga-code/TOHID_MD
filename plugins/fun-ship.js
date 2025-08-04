@@ -1,6 +1,3 @@
-const axios = require("axios");
-const fetch = require("node-fetch");
-const { sleep } = require('../lib/functions');
 const { cmd, commands } = require("../command");
 const config = require("../config");
 
