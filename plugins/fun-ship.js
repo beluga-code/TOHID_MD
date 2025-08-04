@@ -1,4 +1,5 @@
-cmd({
+bot(
+  {
   pattern: "ship",
   alias: ["match", "love"],
   desc: "Randomly pairs the command user with another group member.",
